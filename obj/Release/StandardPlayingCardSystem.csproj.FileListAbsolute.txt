@@ -1,0 +1,10 @@
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\bin\Release\StandardPlayingCardSystem.exe.config
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\bin\Release\StandardPlayingCardSystem.exe
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\bin\Release\StandardPlayingCardSystem.pdb
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.csprojAssemblyReference.cache
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.Form1.resources
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.Properties.Resources.resources
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.csproj.GenerateResource.cache
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.exe
+C:\Users\Nicholas Sharrett\source\repos\StandardPlayingCardSystem\obj\Release\StandardPlayingCardSystem.pdb
